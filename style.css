@@ -1,0 +1,22 @@
+/*
+-Name: Bennett Best
+-UnityID: 200574750
+-Date: 9-17
+-Assignment: Independant 4
+-Desc. Independant Assignment
+ */
+ 
+p {
+    font-family: monospace;
+    font-size: 16px;
+    color: #454649;
+}
+
+.table-border {
+    border: 1px solid #454649;
+}
+
+#photo-resize {
+    max-width: 250px;
+    max-height: 400px;
+}
